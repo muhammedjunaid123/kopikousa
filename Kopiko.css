@@ -1,0 +1,112 @@
+body{
+    background: black;
+    color: white;
+    margin: 0;
+}
+.header-text{
+    color: #b7b7b7;
+    font-family:"Playfair Display", serif;
+    font-weight: 20;
+    margin-top: 40px;
+    font-size: 40px;
+    margin-left: 480px;
+    letter-spacing: 5px;
+    margin-bottom: 5px;
+    transition: color 0.45s;
+
+}
+.header-text:hover{
+        color: rgb(186, 53, 5);
+}
+a{
+    text-decoration: none;
+}
+.header-p{
+    color: #b7b7b7;
+    font-family: "Playfair Display", serif;
+    margin-left: 410px;
+    font-size: 12px;
+    letter-spacing: 5px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+.head-line{
+    margin-left: 40px;
+    margin-right: 40px;
+    border: 1px solid gray;
+}
+nav{
+    padding-left: 300px;
+}
+.nav-btn{
+    margin-top: 10px;
+    border: 0;
+    background: black;
+    color: white;
+    margin-right: 30px;
+    font-weight: 20px;
+    transition: color 0.45s;
+}
+.nav-btn:hover{
+    color: rgb(186, 53, 5);
+}
+.IMAGE{
+    margin-top: 30px;
+    width: 100%;
+    height: 700px; 
+}
+.image-p{
+    margin-top: 100px;
+   font-family: "Roboto", Sans-serif;
+   color:gray;
+   font-size: 19px;
+   font-weight:bolder;
+   line-height: 40px;
+   text-align: center;
+   margin-left: 30px;
+}
+.image-p-1{
+    margin-top: 30px;
+   font-family: "Roboto", Sans-serif;
+   color:gray;
+   font-size: 19px;
+   font-weight:bolder;
+   line-height: 40px;
+   text-align: center;
+}
+.image-2{
+    margin-top: 30px;
+width: 800px;
+height: 400px;
+margin-left: 250px;
+
+}
+.footer{
+    padding-left: 350px;
+}
+.logo-4{
+    margin-top: 200px;
+    margin-left: 80px;
+   width: 30px;
+   height: 30px;
+ background: white;
+ border-radius: 25px;
+ cursor: pointer;
+}
+.footer-last{
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-top: 150px;
+   color: gray;
+   font-size:small ;
+}
+.k-usa{
+    font-size: 13px;
+    color: white;
+    transition: color 0.45s;
+}
+.k-usa:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    color: rgb(186, 53, 5);
+}
